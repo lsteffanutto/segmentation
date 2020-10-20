@@ -1,0 +1,9 @@
+site:
+https://www.dropbox.com/s/hq4ejr51q92l72w/BE_redressement.zip
+
+code à envoyer par mail après la séance:
+lionel.bombrun@ims-bordeaux.fr
+
+
+1 seule variable niveau de cris pour chaque classe
+
